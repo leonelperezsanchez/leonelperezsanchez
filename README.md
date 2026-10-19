@@ -19,21 +19,6 @@ Backend engineer from Buenos Aires building and modernizing **.NET** services fo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Featured projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [API Gateway](https://github.com/leps1998/api-gateway) | Reverse proxy with routing, rate limiting and auth middleware *(in progress)* | .NET 8, ASP.NET Core |
-
-<!--
-Descomenta esto cuando tengas algunas semanas de commits:
-
-## GitHub stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=leps1998&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leps1998&layout=compact&hide_border=true)
--->
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonelperezsanchez)
