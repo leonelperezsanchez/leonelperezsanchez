@@ -3,7 +3,6 @@
 Backend engineer from Buenos Aires building and modernizing **.NET** services for insurance, financial services and logistics.
 
 - 🔧 Currently migrating core insurance systems from **.NET Framework SOAP** to versioned **.NET 8 REST APIs** backed by Oracle PL/SQL
-- 🚀 Building an **API Gateway** in .NET as a deep-dive into networking, middleware and distributed systems
 - 🤖 Learning **AI and LLM agent development**
 - 🌎 Exploring other backend stacks beyond .NET
 - 💬 Ask me about: ASP.NET Core, API design and security, SQL Server / Oracle, CI/CD with Azure DevOps
